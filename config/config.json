@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "mona",
+    "password": "Mona@123",
+    "database": "mona",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "mona",
+    "password": "Mona@123",
+    "database": "mona",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "mona",
+    "password": "Mona@123",
+    "database": "mona",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
